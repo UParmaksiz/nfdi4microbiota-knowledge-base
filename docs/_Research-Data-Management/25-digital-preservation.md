@@ -4,8 +4,8 @@ category: Research-Data-Management
 layout: default
 docs_css: markdown
 ---
-# Definition
-Digital preservation is the act of ensuring continued findability and access to digital material and maintaining it independently understandable and reusable by a designated community, and with evidence supporting its authenticity, for as long as necessary. Preservation actions include:
+# Definition of digital preservation
+Digital preservation is the act of ensuring digital material can be found and accessed for as long as necessary. It is aiming at maintaining information understandable and reusable by a designated community, and with evidence supporting its authenticity. Preservation actions include:
 * Data cleaning
 * Data validation
 * Data documentation with descriptive metadata and preservation metadata (e.g. administrative and technical metadata)
